@@ -38,7 +38,29 @@ This project is a comprehensive Docker monitoring application built with **PyQt6
 - Use the toolbar to refresh containers, view network graphs, or generate heatmaps.  
 
 ## Screenshots  
-*(Add screenshots showcasing the GUI and its features)*  
+**Main Dashboard**  
+![Main Dashboard](Screenshots/main_screen.png) 
+
+**Network Activity**  
+![Network Activity](Screenshots/network_activity.png)  
+
+**Network Graph**  
+![Network Graph](Screenshots/network_graph.png)
+
+**IP Connections Heatmap**  
+![IP Heatmap](Screenshots/heat_map.png)
+
+**Individual Container Monitoring**  
+![Individual Container](Screenshots/network_activity.png)
+
+**Multiple Individual Containers Monitoring**  
+![Multiple Individual Containers](Screenshots/multi_individual_container.png)
+
+**Edit Prefferences for More Stats**  
+![Edit Prefferences](Screenshots/edit_prefernces.png)
+
+**More Stats**  
+![More Stats](Screenshots/more_stats.png)
 
 ## Other Contributers:
 1. [Harsh Upadhyay](https://github.com/itsharu11)
