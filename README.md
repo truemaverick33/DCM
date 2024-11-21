@@ -40,12 +40,11 @@ This project is a comprehensive Docker monitoring application built with **PyQt6
 ## Screenshots  
 *(Add screenshots showcasing the GUI and its features)*  
 
-## Contributing  
-Contributions are welcome! Feel free to submit issues or pull requests to improve the tool.  
-
-## License  
-This project is licensed under the [MIT License](LICENSE).  
-
+## Other Contributers:
+1. Harsh Upadhyay[https://github.com/itsharu11]
+2. Kartik Iyer[https://github.com/KartikIyerr]
+3. Sourav Kumavat[https://github.com/INDSOURAV]
+4. Mann Patel[https://github.com/Mann2oo2]
 ---  
 
 **Developed with Python and Docker to simplify container management.**
