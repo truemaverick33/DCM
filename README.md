@@ -41,10 +41,10 @@ This project is a comprehensive Docker monitoring application built with **PyQt6
 *(Add screenshots showcasing the GUI and its features)*  
 
 ## Other Contributers:
-1. Harsh Upadhyay[https://github.com/itsharu11]
-2. Kartik Iyer[https://github.com/KartikIyerr]
-3. Sourav Kumavat[https://github.com/INDSOURAV]
-4. Mann Patel[https://github.com/Mann2oo2]
+1. [Harsh Upadhyay](https://github.com/itsharu11)
+2. [Kartik Iyer](https://github.com/KartikIyerr)
+3. [Sourav Kumavat](https://github.com/INDSOURAV)
+4. [Mann Patel](https://github.com/Mann2oo2)
 ---  
 
 **Developed with Python and Docker to simplify container management.**
